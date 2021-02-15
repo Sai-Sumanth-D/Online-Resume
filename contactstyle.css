@@ -1,0 +1,14 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+.Contact-us {
+  width: auto;
+  flex-basis: 60%;
+}
+.contact-left {
+  display: flex;
+  margin: auto;
+  max-width: 30px;
+}
